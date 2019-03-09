@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyDiary</string>
+
+    <string name="send">전송</string>
+    <string name="et_hint_1">오늘도 좋은 하루 였니?</string>
+    <string name="btn_read_txt">읽기</string>
+    <string name="btn_write_txt">쓰기</string>
+
+</resources>
+
